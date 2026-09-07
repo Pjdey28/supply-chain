@@ -1,0 +1,11 @@
+sku,product,pack_size,base_price
+BB250,Bharat Cola,250ml,24
+BB500,Bharat Cola,500ml,35
+BB1000,Bharat Cola,1L,55
+LM250,Lemon Blast,250ml,22
+LM500,Lemon Blast,500ml,32
+OR500,Orange Rush,500ml,34
+OR1000,Orange Rush,1L,52
+EN250,Energy Max,250ml,48
+EN500,Energy Max,500ml,72
+WT1000,Bharat Water,1L,20

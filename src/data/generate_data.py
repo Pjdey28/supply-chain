@@ -155,14 +155,17 @@ for date in dates:
             ])
 
 
-sales = pd.DataFrame(records)
-
-
-sales.rename(
-    columns={"demand": "units_sold"},
-    inplace=True
-)
-
+sales = pd.DataFrame(records, columns=[
+    "date",
+    "sku",
+    "product",
+    "pack_size",
+    "region",
+    "units_sold",
+    "price",
+    "promotion",
+    "is_holiday",
+])
 
 
 sales.to_csv(
