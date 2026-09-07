@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+scipy
+matplotlib
+seaborn
+jupyter
+sqlalchemy
+psycopg2-binary
+openpyxl
+pyyaml
+statsmodels
