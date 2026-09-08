@@ -1,0 +1,16 @@
+plant_id,warehouse_id,cost_per_case
+P01,WH_Delhi,2.0
+P01,WH_Mumbai,6.0
+P01,WH_Kolkata,5.0
+P01,WH_Bangalore,7.0
+P01,WH_Hyderabad,4.0
+P02,WH_Delhi,7.0
+P02,WH_Mumbai,5.0
+P02,WH_Kolkata,6.0
+P02,WH_Bangalore,2.0
+P02,WH_Hyderabad,3.5
+P03,WH_Delhi,5.0
+P03,WH_Mumbai,6.0
+P03,WH_Kolkata,2.0
+P03,WH_Bangalore,6.0
+P03,WH_Hyderabad,3.0

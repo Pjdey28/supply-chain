@@ -1,0 +1,6 @@
+warehouse_id,handling_cost_per_case,storage_cost_per_case
+WH_Delhi,1.20,0.80
+WH_Mumbai,1.40,0.90
+WH_Kolkata,1.10,0.70
+WH_Bangalore,1.30,0.85
+WH_Hyderabad,1.15,0.75

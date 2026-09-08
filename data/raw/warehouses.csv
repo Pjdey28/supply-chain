@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,capacity_cases
+WH_Delhi,Delhi Warehouse,North,180000
+WH_Mumbai,Mumbai Warehouse,West,200000
+WH_Kolkata,Kolkata Warehouse,East,150000
+WH_Bangalore,Bangalore Warehouse,South,180000
+WH_Hyderabad,Hyderabad Warehouse,Central,140000
