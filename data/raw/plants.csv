@@ -1,0 +1,4 @@
+plant_id,plant_name,region,weekly_capacity_cases
+P01,North Plant,North,180000
+P02,South Plant,South,220000
+P03,East Plant,East,160000

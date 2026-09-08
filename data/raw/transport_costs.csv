@@ -1,0 +1,16 @@
+plant_id,region,cost_per_case
+P01,North,2
+P01,South,7
+P01,East,5
+P01,West,6
+P01,Central,4
+P02,North,7
+P02,South,2
+P02,East,6
+P02,West,5
+P02,Central,4
+P03,North,5
+P03,South,6
+P03,East,2
+P03,West,6
+P03,Central,4
