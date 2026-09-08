@@ -1,0 +1,9 @@
+raw_material_id,raw_material_name,unit,unit_cost,lead_time_days,safety_stock_days,moq
+RM001,Sugar,kg,0.65,7,5,500
+RM002,Beverage Concentrate,kg,4.50,14,7,100
+RM003,CO2,kg,1.80,5,3,100
+RM004,PET Bottle,unit,2.10,10,5,5000
+RM005,Cap,unit,0.35,10,5,5000
+RM006,Label,unit,0.12,7,5,10000
+RM007,Carton,unit,8.50,7,5,500
+RM008,Shrink Film,kg,2.20,7,5,100
